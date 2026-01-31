@@ -86,6 +86,8 @@ header__btn:hover {
   text-decoration: none;
   position: relative;
   display: inline-block;
+    cursor: pointer;
+
 }
 .nav__link::after {
   content: "";
